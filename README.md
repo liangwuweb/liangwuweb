@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Liang Wu! You can call me Wu.
-- 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning Lavarvel
-- 💞️ I’m looking to collaborate on a full stack web project.
+- 👋 Hi, I’m Wu! 
+- 👀 I’m web developer.
+- 🌱 I’m currently building full stack laravel project
+- 💞️ I’m love to collaborate on a full stack web project.
 - 📫 How to reach me 
 
 <!---
