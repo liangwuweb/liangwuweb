@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Liang Wu! 
+- 👋 Hi, I’m Liang! 
 - 👀 I’m web developer.
 - 💞️ I’m love to collaborate on a full stack web project.
 - My website: https://liangwuweb.github.io/
