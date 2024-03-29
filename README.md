@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Liang! 
-- 👀 I’m web developer.
-- 💞️ I’m love to collaborate on a full stack web project.
+- 👀 I’m a software engineer.
 - My website: https://liangwuweb.github.io/
 - 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/liang-wu-b16952149/
 
